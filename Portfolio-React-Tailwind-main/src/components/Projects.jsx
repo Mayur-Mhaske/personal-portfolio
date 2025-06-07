@@ -1,6 +1,3 @@
-import React from "react";
-import employeeMSImage from "../assets/employee-ms.png";
-import bookMSImage from "../assets/admin-dashboard.png";
 import BOOKBAZAR from "../assets/BOOKBAZAR.png";
 import Bubb from "../assets/Bubb.png";
 import pp from "../assets/pp.png";
