@@ -1,27 +1,33 @@
 import React from "react";
 import employeeMSImage from "../assets/employee-ms.png";
 import bookMSImage from "../assets/admin-dashboard.png";
+import BOOKBAZAR from "../assets/BOOKBAZAR.png";
+import Bubb from "../assets/Bubb.png";
+import pp from "../assets/pp.png";
+import reso from "../assets/reso.png";
+import vc from "../assets/vc.png";
+import weather from "../assets/weather.png";
 
 const projects = [
   {
     id: 1,
     name: "Book Bazar",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: BOOKBAZAR,
     github: "https://book-store-app-7f2f.vercel.app/",
   },
   {
     id: 2,
     name: "Book Restaturent",
     technologies: "MERN Stack",
-    image: bookMSImage,
+    image: reso,
     github: "https://github.com/Mayur-Mhaske/restaurant-app.git",
   },
   {
     id: 3,
     name: "Tech Tutorial Live Stream",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: vc,
     github: "https://live-streaming-app-chi.vercel.app/",
   },
 
@@ -29,7 +35,7 @@ const projects = [
     id: 4,
     name: "Personal Portfolio",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: pp,
     github: "https://personal-portfolio-nine-mu-71.vercel.app/",
   },
 
@@ -37,7 +43,7 @@ const projects = [
     id: 5,
     name: "Bubble Game",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: Bubb,
     github: "https://bubble-game-app-1w5r.vercel.app/",
   },
 
@@ -45,7 +51,7 @@ const projects = [
     id: 6,
     name: "Weather App",
     technologies: "MERN Stack",
-    image: employeeMSImage,
+    image: weather,
     github: "https://github.com/YouafKhan1",
   },
 ];
