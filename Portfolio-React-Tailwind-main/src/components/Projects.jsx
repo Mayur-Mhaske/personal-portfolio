@@ -30,7 +30,7 @@ const projects = [
     name: "Personal Portfolio",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://personal-portfolio-nine-mu-71.vercel.app/",
   },
 
   {
