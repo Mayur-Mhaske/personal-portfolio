@@ -2,7 +2,7 @@ import BOOKBAZAR from "../assets/BOOKBAZAR.png";
 import Bubb from "../assets/Bubb.png";
 import pp from "../assets/pp.png";
 import reso from "../assets/reso.png";
-import vc from "../assets/vc.png";
+import video from "../assets/video.png";
 import weather from "../assets/weather.png";
 
 const projects = [
@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     name: "Tech Tutorial Live Stream",
     technologies: "MERN Stack",
-    image: vc,
+    image: video,
     github: "https://live-streaming-app-chi.vercel.app/",
   },
 
